@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Sitemap dynamisch via PHP
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+
+# robots.txt ebenfalls per PHP
+RewriteRule ^robots\.txt$ robots.php [L]
