@@ -4,12 +4,13 @@ require_once 'init.php';
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <meta charset="UTF-8">
+        <meta charset="UTF-8">        
         <title>Projektübersicht – samy.uber.space</title>
         <meta name="description" content="Übersicht meiner Webprojekte.">
         <meta name="robots" content="index, follow">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="<?= assetUrl('css/main.css') ?>">
+        <link rel="icon" type="image/png" sizes="32x32" href="<?= assetUrl('assets/favicon.png') ?>">
     </head>
     <body class="body-wrapper">
 
