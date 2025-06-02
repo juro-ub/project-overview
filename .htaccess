@@ -1,3 +1,6 @@
+Order deny,allow
+Deny from all
+
 RewriteEngine On
 
 # Sitemap dynamisch via PHP
