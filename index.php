@@ -27,10 +27,12 @@ require_once 'init.php';
                 </tr>
             </thead>
             <tbody>
+                <!--
                 <tr>
                     <td><a href="<?= getBaseUrl() ?>samy/">🐾 Samys Seite</a></td>
                     <td>Persönliche Homepage für meinen Kater Samy mit Tagebuch, Bildern und Videos.</td>
                 </tr>
+                -->
                 <tr>
                     <td><a href="<?= getBaseUrl() ?>postkarten/">📬 Virtuelle Postkarten</a></td>
                     <td>Erstelle und teile frei gestaltbare Postkarten mit Emojis, Texten und Bildern.</td>
